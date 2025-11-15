@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF"/>
+  <rect x="60" y="120" width="960" height="520" fill="#F7F7F7" rx="8"/>
+  <text x="540" y="360" font-size="36" text-anchor="middle" fill="#333" font-family="Arial" font-weight="700">Mâncare autentică</text>
+  <rect x="80" y="660" width="920" height="320" fill="#FDF2E9" rx="12"/>
+  <text x="540" y="730" font-size="28" text-anchor="middle" fill="#9A6B4F" font-family="Arial">- 3 feluri de meniu -</text>
+  <rect x="420" y="840" width="240" height="64" rx="10" fill="#2B8CFF"/>
+  <text x="540" y="884" font-size="22" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Rezervă masa</text>
+  <text x="540" y="1010" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Adresa • ore • telefon</text>
+</svg>

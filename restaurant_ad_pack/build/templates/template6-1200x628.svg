@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <rect width="1200" height="628" fill="#FFFDF4"/>
+  <rect x="40" y="40" width="1120" height="440" fill="#FFF4D9" rx="10"/>
+  <text x="600" y="220" font-size="30" text-anchor="middle" fill="#8A5A12" font-family="Arial" font-weight="700">Deserturi &amp; Cafele</text>
+  <text x="600" y="260" font-size="16" text-anchor="middle" fill="#6E4B12" font-family="Arial">Promo: cafea + desert 12€</text>
+  <rect x="480" y="320" width="240" height="56" rx="8" fill="#8A5A12"/>
+  <text x="600" y="358" font-size="20" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă</text>
+  <text x="600" y="540" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">+40 7XX XXX XXX</text>
+</svg>

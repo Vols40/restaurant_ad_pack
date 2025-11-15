@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <rect width="1200" height="628" fill="#FFF7F3"/>
+  <rect x="40" y="40" width="1120" height="360" fill="#FFDAB3" rx="10"/>
+  <text x="600" y="200" font-size="30" text-anchor="middle" fill="#6B3F2F" font-family="Arial" font-weight="700">Burgeri artizani</text>
+  <text x="600" y="240" font-size="16" text-anchor="middle" fill="#4D2E24" font-family="Arial">Promo: 2 pentru 1 în zilele de luni</text>
+  <rect x="480" y="300" width="240" height="56" rx="8" fill="#222"/>
+  <text x="600" y="338" font-size="20" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă acum</text>
+  <text x="600" y="520" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">+40 7XX XXX XXX • Adresă</text>
+</svg>

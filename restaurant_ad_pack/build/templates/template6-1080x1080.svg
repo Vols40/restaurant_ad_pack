@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFFDF4"/>
+  <rect x="80" y="120" width="920" height="520" fill="#FFF4D9" rx="12"/>
+  <text x="540" y="360" font-size="36" text-anchor="middle" fill="#8A5A12" font-family="Arial" font-weight="700">Deserturi &amp; Cafele</text>
+  <text x="540" y="410" font-size="18" text-anchor="middle" fill="#6E4B12" font-family="Arial">Dulciuri proaspete în fiecare zi</text>
+  <rect x="360" y="760" width="360" height="64" rx="10" fill="#8A5A12"/>
+  <text x="540" y="804" font-size="22" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă</text>
+  <text x="540" y="980" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Livrare • Coffee to go</text>
+</svg>

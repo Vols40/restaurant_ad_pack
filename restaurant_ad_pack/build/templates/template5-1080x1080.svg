@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF8F8"/>
+  <rect x="80" y="140" width="920" height="520" fill="#FFEFEF" rx="12"/>
+  <text x="540" y="380" font-size="36" text-anchor="middle" fill="#B23A3A" font-family="Arial" font-weight="700">Pizza proaspătă</text>
+  <text x="540" y="430" font-size="18" text-anchor="middle" fill="#7A2A2A" font-family="Arial" font-weight="400">Cuptor de lemne • Rețete originale</text>
+  <rect x="420" y="760" width="240" height="64" rx="10" fill="#B23A3A"/>
+  <text x="540" y="804" font-size="22" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă</text>
+  <text x="540" y="980" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Livrare • Takeaway</text>
+</svg>

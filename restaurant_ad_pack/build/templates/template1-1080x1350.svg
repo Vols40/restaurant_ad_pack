@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF8F0"/>
+  <rect x="60" y="100" width="960" height="560" fill="#E6D5C6" rx="12"/>
+  <text x="540" y="380" font-size="34" text-anchor="middle" fill="#9A6B4F" font-family="Arial">Imagine produs / meniu</text>
+  <circle cx="540" cy="720" r="70" fill="#9A6B4F"/>
+  <text x="540" y="735" font-size="28" text-anchor="middle" fill="#FFF" font-family="Arial">LOGO</text>
+  <text x="540" y="940" font-size="44" text-anchor="middle" fill="#2B2B2B" font-family="Arial" font-weight="700">Meniu special azi</text>
+  <text x="540" y="1000" font-size="20" text-anchor="middle" fill="#555" font-family="Arial">Oferta valabilă azi până la 22:00</text>
+  <rect x="360" y="1040" width="360" height="72" rx="12" fill="#FF6B35"/>
+  <text x="540" y="1088" font-size="26" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă acum</text>
+  <text x="540" y="1280" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Livrare • Rezervări la +40 7XX XXX XXX</text>
+</svg>
