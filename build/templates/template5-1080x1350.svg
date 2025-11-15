@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF8F8"/>
+  <rect x="60" y="100" width="960" height="560" fill="#FFEFEF" rx="12"/>
+  <text x="540" y="360" font-size="40" text-anchor="middle" fill="#B23A3A" font-family="Arial" font-weight="700">Pizza delicioasă</text>
+  <text x="540" y="420" font-size="18" text-anchor="middle" fill="#7A2A2A" font-family="Arial">Savurează livrarea caldă acasă</text>
+  <rect x="360" y="1040" width="360" height="72" rx="12" fill="#B23A3A"/>
+  <text x="540" y="1088" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă acum</text>
+  <text x="540" y="1260" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Rezervări &amp; Catering</text>
+</svg>

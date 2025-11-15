@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <rect width="1200" height="628" fill="#FFF8F0"/>
+  <rect x="40" y="40" width="1120" height="360" fill="#E6D5C6" rx="10"/>
+  <text x="600" y="220" font-size="28" text-anchor="middle" fill="#9A6B4F" font-family="Arial">Imagine produs / meniu</text>
+  <circle cx="80" cy="560" r="48" fill="#9A6B4F"/>
+  <text x="80" y="566" font-size="18" text-anchor="middle" fill="#FFF" font-family="Arial">LOGO</text>
+  <text x="600" y="440" font-size="36" text-anchor="middle" fill="#2B2B2B" font-family="Arial" font-weight="700">Meniu special azi</text>
+  <text x="600" y="480" font-size="16" text-anchor="middle" fill="#555" font-family="Arial">Livrare rapidă • Gust autentic</text>
+  <rect x="480" y="500" width="240" height="56" rx="8" fill="#FF6B35"/>
+  <text x="600" y="538" font-size="20" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă</text>
+  <text x="600" y="600" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">+40 7XX XXX XXX • Adresă</text>
+</svg>

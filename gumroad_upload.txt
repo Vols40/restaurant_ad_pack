@@ -1,0 +1,13 @@
+1) Creează cont Gumroad: https://gumroad.com (gratuit)
+2) Dashboard → Products → New product → Digital product
+3) Title: folosește titlul recomandat din product_description.txt
+4) Upload files: încarcă un ZIP care conține:
+   - folder /templates cu cele 18 SVG (sau PNG) 
+   - README.txt (instrucțiuni de editare)
+   - guide.pdf (opțional, poți crea un PDF scurt cu instrucțiuni)
+5) Preț: 14 EUR (sau 9 EUR pentru lansare)
+6) Cover image: folosește unul din mockup-urile exportate în PNG (sau folosește template1-1200x628.svg exportat ca PNG)
+7) Tags: adaugă tag-urile recomandate
+8) Publish → copy link (ex: https://gumroad.com/l/YOUR_LINK) și pune linkul în landing.html
+9) Opțional: setează pay-what-you-want, discount codes sau bundle
+10) Testează cumpărarea (checkout) pentru a te asigura că fișierele se livrează corect

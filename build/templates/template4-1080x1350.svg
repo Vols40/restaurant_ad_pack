@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F0FFF4"/>
+  <rect x="60" y="100" width="960" height="560" fill="#DFF3E6" rx="12"/>
+  <text x="540" y="380" font-size="40" text-anchor="middle" fill="#1F7A44" font-family="Arial" font-weight="700">Salate &amp; Bowl-uri</text>
+  <text x="540" y="440" font-size="18" text-anchor="middle" fill="#2F6A50" font-family="Arial">Sănătos • Rapid • Delicios</text>
+  <rect x="360" y="1040" width="360" height="72" rx="12" fill="#1F7A44"/>
+  <text x="540" y="1088" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă online</text>
+  <text x="540" y="1260" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Rezervări &amp; Catering</text>
+</svg>

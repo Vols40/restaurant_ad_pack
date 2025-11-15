@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFFDF4"/>
+  <rect x="60" y="80" width="960" height="560" fill="#FFF4D9" rx="12"/>
+  <text x="540" y="360" font-size="40" text-anchor="middle" fill="#8A5A12" font-family="Arial" font-weight="700">Deserturi &amp; Cafea</text>
+  <text x="540" y="420" font-size="18" text-anchor="middle" fill="#6E4B12" font-family="Arial">Gusturi care te fac să revii</text>
+  <rect x="360" y="1040" width="360" height="72" rx="12" fill="#8A5A12"/>
+  <text x="540" y="1088" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă acum</text>
+  <text x="540" y="1260" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Rezervări &amp; Catering</text>
+</svg>

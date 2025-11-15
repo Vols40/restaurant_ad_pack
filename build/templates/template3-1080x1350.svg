@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF7F3"/>
+  <rect x="60" y="80" width="960" height="600" fill="#FFDAB3" rx="12"/>
+  <text x="540" y="380" font-size="40" text-anchor="middle" fill="#6B3F2F" font-family="Arial" font-weight="700">Burgeri artizani</text>
+  <text x="540" y="440" font-size="18" text-anchor="middle" fill="#4D2E24" font-family="Arial">Alege gustul preferat • Livrare rapidă</text>
+  <rect x="360" y="980" width="360" height="72" rx="12" fill="#222"/>
+  <text x="540" y="1028" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă</text>
+  <text x="540" y="1260" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Rezervări &amp; Catering</text>
+</svg>

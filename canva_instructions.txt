@@ -1,0 +1,8 @@
+1) Deschide Canva și loghează-te (cont gratuit e suficient).
+2) Mergi la Uploads → Upload files → selectează fișierele .svg (cele din folderul templates).
+3) După upload, trage SVG-ul pe canvas. Poți edita text direct (dacă editorul nu permite modificarea textului din SVG, schimbă textul din Canva peste elementele existente).
+4) Înlocuiește imaginea din placeholder: selectează dreptunghiul/placeholder și folosește Replace → Uploads sau Photos.
+5) Schimbă logo: încarcă logo-ul clientului și poziționează-l peste cercul LOGO sau în zona preferată.
+6) Schimbă culori: selectează elementele (buton/rect/background) și alege culoarea dorită.
+7) Salvează designul → Share → Download → PNG (sau JPG) la dimensiunea necesară.
+8) Repetă pentru celelalte dimensiuni (1080x1080, 1200x628, 1080x1350).

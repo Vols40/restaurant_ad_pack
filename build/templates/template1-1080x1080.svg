@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF8F0"/>
+  <!-- image placeholder -->
+  <rect x="80" y="140" width="920" height="520" fill="#E6D5C6" stroke="#E0CBBF" rx="12"/>
+  <text x="540" y="410" font-size="36" text-anchor="middle" fill="#9A6B4F" font-family="Arial">Imagine produs / meniu</text>
+  <!-- logo -->
+  <circle cx="120" cy="80" r="48" fill="#9A6B4F"/>
+  <text x="120" y="88" font-size="20" text-anchor="middle" fill="#FFF" font-family="Arial">LOGO</text>
+  <!-- headline -->
+  <text x="540" y="700" font-size="48" text-anchor="middle" fill="#2B2B2B" font-family="Arial" font-weight="700">Meniu special azi</text>
+  <!-- subheadline -->
+  <text x="540" y="760" font-size="20" text-anchor="middle" fill="#555" font-family="Arial">50% reducere pentru comenzile din aplicație</text>
+  <!-- CTA -->
+  <rect x="360" y="820" width="360" height="72" rx="10" fill="#FF6B35"/>
+  <text x="540" y="868" font-size="26" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă acum</text>
+  <!-- footer -->
+  <text x="540" y="1020" font-size="16" text-anchor="middle" fill="#888" font-family="Arial">www.restaurantul-tau.ro • +40 7XX XXX XXX</text>
+</svg>

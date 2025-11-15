@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F0FFF4"/>
+  <rect x="70" y="150" width="940" height="480" fill="#DFF3E6" rx="12"/>
+  <text x="540" y="380" font-size="36" text-anchor="middle" fill="#1F7A44" font-family="Arial" font-weight="700">Salată proaspătă</text>
+  <text x="540" y="420" font-size="18" text-anchor="middle" fill="#2F6A50" font-family="Arial">Ingrediente locale • opțiuni vegetariene</text>
+  <rect x="420" y="820" width="240" height="64" rx="10" fill="#1F7A44"/>
+  <text x="540" y="864" font-size="22" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Comandă acum</text>
+  <text x="540" y="1010" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Program • Contact</text>
+</svg>

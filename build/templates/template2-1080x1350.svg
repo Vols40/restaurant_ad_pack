@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF"/>
+  <rect x="60" y="80" width="960" height="520" fill="#F7F7F7" rx="12"/>
+  <text x="540" y="320" font-size="40" text-anchor="middle" fill="#333" font-family="Arial" font-weight="700">Gusturi care rămân</text>
+  <text x="540" y="380" font-size="18" text-anchor="middle" fill="#9A6B4F" font-family="Arial">Degustări, meniuri evenimente, pachete business</text>
+  <rect x="360" y="980" width="360" height="72" rx="12" fill="#2B8CFF"/>
+  <text x="540" y="1028" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial" font-weight="700">Rezervă eveniment</text>
+  <text x="540" y="1260" font-size="14" text-anchor="middle" fill="#888" font-family="Arial">Adresa • Program • Telefon</text>
+</svg>

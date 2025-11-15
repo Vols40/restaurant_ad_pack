@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>Restaurant Ad Pack — Template-uri reclame</title>
+  <meta name="description" content="18 reclame editabile pentru restaurante — templates SVG, mockups și licență comercială. Rapid de personalizat." />
+  <meta property="og:title" content="Restaurant Ad Pack — beldexStorage" />
+  <meta property="og:description" content="18 reclame editabile pentru restaurante. Includes commercial license." />
+  <meta property="og:image" content="../../mockups/cover-1200x628.png" />
+  <meta property="og:type" content="product" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="container header-row">
+      <div class="logo">Restaurant Ad Pack</div>
+
+      <!-- hamburger toggle (vizibil pe mobile) -->
+      <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Meniu" type="button">
+        <span class="nav-toggle-icon" aria-hidden="true">☰</span>
+      </button>
+
+      <!-- nav principal (desktop view) -->
+      <nav id="site-nav" class="nav nav-menu" role="navigation">
+        <a href="#features">Ce primești</a>
+        <a href="#templates">Șabloane</a>
+        <a href="#buy">Cumpără</a>
+      </nav>
+    </div>
+  </header>
+
+  <main role="main">
+    <section class="hero" id="hero">
+      <div class="container hero-inner">
+        <div class="hero-left">
+          <h2>Pachete de reclame gata de folosit pentru restaurante</h2>
+          <p class="lead">18 imagini editabile (Canva‑ready) în 3 dimensiuni, plus 3 variante de text pentru campanii Facebook/Instagram. Mockups și license.txt incluse.</p>
+
+          <ul class="features-list">
+            <li>Templates: 1080×1080, 1200×628, 1080×1350</li>
+            <li>Fișiere editabile pentru Canva (SVG)</li>
+            <li>3 variante de copy pentru fiecare șablon (headline + description + CTA)</li>
+            <li>Instrucțiuni rapide „Cum rulezi o campanie locală” (PDF)</li>
+          </ul>
+
+          <p class="cta-row">
+            <a class="btn primary" id="buy-now" href="https://beldexstorage.gumroad.com/l/mlojcs" target="_blank" rel="noopener">Cumpără pe Gumroad — Download</a>
+            <a class="btn secondary" href="#templates">Vezi șabloane</a>
+          </p>
+
+          <p class="small-note">Ai întrebări? Contact: beldexstorage@gmail.com</p>
+        </div>
+
+        <aside class="hero-right">
+          <div class="preview-card">
+            <!-- hero preview: folosește mockup PNG (există în ./mockups) -->
+            <button class="preview-frame" id="heroPreviewFrame" aria-label="Deschide preview" data-full="../../mockups/cover-1200x628.png" type="button">
+              <img src="../../mockups/cover-1200x628.png" alt="Preview Restaurant Ad Pack" class="preview-img" loading="lazy">
+            </button>
+
+            <div class="preview-meta">
+              <h4>Preview Restaurant Ad Pack</h4>
+              <p class="preview-sub">Click pe miniaturi pentru a vedea varianta full</p>
+            </div>
+
+            <div class="hero-thumbs" aria-hidden="false">
+              <!-- thumbnails: folosim SVG-urile din root ./templates (cale relativă din build/landing => ../../templates/...) -->
+              <button class="thumb" data-full="../../templates/template1-1200x628.svg" aria-label="Deschide Template 1" type="button">
+                <img src="../../templates/template1-1200x628.svg" alt="Template 1" loading="lazy" />
+              </button>
+              <button class="thumb" data-full="../../templates/template2-1200x628.svg" aria-label="Deschide Template 2" type="button">
+                <img src="../../templates/template2-1200x628.svg" alt="Template 2" loading="lazy" />
+              </button>
+              <button class="thumb" data-full="../../templates/template3-1200x628.svg" aria-label="Deschide Template 3" type="button">
+                <img src="../../templates/template3-1200x628.svg" alt="Template 3" loading="lazy" />
+              </button>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="features" class="container details">
+      <h3>Ce primești</h3>
+      <p>Arhiva conține templates SVG editabile, imagini export (JPG/PNG) pentru postări, mockups, README, instrucțiuni și fișierul license.txt cu drepturile de utilizare.</p>
+
+      <div class="grid">
+        <div class="card">
+          <h4>Fișiere</h4>
+          <p>SVG, PNG, JPG, mockups, README și license.txt</p>
+        </div>
+        <div class="card">
+          <h4>Utilizare</h4>
+          <p>Permisă folosirea în proiecte comerciale; revânzarea pachetului sursă este interzisă (detalii în license.txt).</p>
+        </div>
+        <div class="card">
+          <h4>Suport</h4>
+          <p>Contact: beldexstorage@gmail.com (cereri de licență extinsă sau bundle)</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive preview + Thumbs (kept) -->
+    <section id="templates" class="container templates">
+      <h3>Preview șabloane</h3>
+
+      <div class="preview-card" aria-label="Preview șabloane principale">
+        <button class="preview-frame" id="previewFrame" aria-label="Deschide imaginea în vizualizare completă" type="button">
+          <img id="previewImg" class="preview-img" src="../../templates/template1-1200x628.svg" alt="Preview Restaurant Ad Pack" loading="lazy">
+        </button>
+
+        <div class="preview-meta">
+          <h4>Preview Restaurant Ad Pack</h4>
+          <p>Click pe miniaturi pentru a vedea varianta full</p>
+        </div>
+
+        <div class="hero-thumbs" role="list" aria-label="Miniaturi șabloane">
+          <button class="thumb" role="listitem" aria-pressed="false" data-index="0" data-preview="../../templates/template1-1200x628.svg" data-full="../../templates/template1-1200x628.svg" type="button">
+            <img src="../../templates/template1-1200x628.svg" alt="Template 1 — Meniu special" loading="lazy">
+          </button>
+          <button class="thumb" role="listitem" aria-pressed="false" data-index="1" data-preview="../../templates/template2-1200x628.svg" data-full="../../templates/template2-1200x628.svg" type="button">
+            <img src="../../templates/template2-1200x628.svg" alt="Template 2 — Mâncare autentică" loading="lazy">
+          </button>
+          <button class="thumb" role="listitem" aria-pressed="false" data-index="2" data-preview="../../templates/template3-1200x628.svg" data-full="../../templates/template3-1200x628.svg" type="button">
+            <img src="../../templates/template3-1200x628.svg" alt="Template 3 — Burgeri" loading="lazy">
+          </button>
+        </div>
+      </div>
+
+      <!-- Lightbox for templates (managed by script.js) -->
+      <div id="tlb" class="tlb" aria-hidden="true" role="dialog" aria-label="Vizualizare imagine">
+        <div class="tlb-backdrop" data-close="true"></div>
+        <div class="tlb-content" role="document">
+          <button class="tlb-close" aria-label="Închide" data-close="true" type="button">✕</button>
+          <button class="tlb-prev" aria-label="Anterior" data-action="prev" type="button">←</button>
+          <img id="tlbImg" src="" alt="" />
+          <button class="tlb-next" aria-label="Următor" data-action="next" type="button">→</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Restored grid (visible) with hoverable cards -->
+    <section class="container">
+      <div class="templates-grid">
+        <article class="template-card" tabindex="0" role="button" aria-label="Vezi Template 1">
+          <div class="img-wrap">
+            <img src="../../templates/template1-1200x628.svg" alt="Template 1 — Meniu special" loading="lazy">
+          </div>
+          <p class="template-title">Template 1 — Meniu special</p>
+        </article>
+
+        <article class="template-card" tabindex="0" role="button" aria-label="Vezi Template 2">
+          <div class="img-wrap">
+            <img src="../../templates/template2-1200x628.svg" alt="Template 2 — Mâncare autentică" loading="lazy">
+          </div>
+          <p class="template-title">Template 2 — Mâncare autentică</p>
+        </article>
+
+        <article class="template-card" tabindex="0" role="button" aria-label="Vezi Template 3">
+          <div class="img-wrap">
+            <img src="../../templates/template3-1200x628.svg" alt="Template 3 — Burgeri" loading="lazy">
+          </div>
+          <p class="template-title">Template 3 — Burgeri</p>
+        </article>
+
+        <!-- adaugă restul cardurilor după același model -->
+      </div>
+    </section>
+
+    <section id="buy" class="container buy">
+      <div class="buy-inner">
+        <h3 class="buy-title" >Cumpără</h3>
+        <p class="buy-sub">Pachet complet pentru restaurante — preț recomandat: 9€</p>
+        <a class="btn primary buy-cta" href="https://beldexstorage.gumroad.com/l/mlojcs" target="_blank" rel="noopener">Cumpără pe Gumroad</a>
+        <div class="buy-list" aria-hidden="false">
+          <p>După achiziție primești fișierele direct automat pe email.</p>
+          <p>Include licență comercială — vezi license.txt în arhivă.</p>
+          <p>Contact & suport: beldexstorage@gmail.com</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <small>© beldexStorage • Restaurant Ad Pack — Template-uri pentru reclame • Version 1.0</small>
+      <p class="muted" style="margin-top:6px;">License included inside the ZIP • Contact: beldexstorage@gmail.com</p>
+    </div>
+  </footer>
+
+  <noscript style="display:block; text-align:center; padding:12px; background:#111; color:#fff;">
+    Pentru funcționalitate completă, activează JavaScript în browser.
+  </noscript>
+
+  <!-- Consolidated script (nav + templates) -->
+  <script src="script.js" defer></script>
+</body>
+</html>
